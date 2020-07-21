@@ -1,2 +1,2 @@
-# E-Comerece-Crawler
+# E-Commerce-Crawler
 For Crawling E-Commerce Websites 
